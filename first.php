@@ -1,6 +1,9 @@
 <?php
 
-$nama = "Almas Aqmarina";
-echo $nama;
+$firstName = "Almas";
+$lastName = "Aqmarina";
+$callName = "Alma";
+
+echo $firstName . $lastName . $callName;
 
 ?>
